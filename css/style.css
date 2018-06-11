@@ -1,0 +1,16 @@
+/* This is a comment */
+/* CSS Syntex:
+selecters {
+
+property: value;
+
+}
+*/
+
+/* Tye seleter */
+
+p {
+  font-size: 1em;
+  line-height: 3.5em;
+
+}
