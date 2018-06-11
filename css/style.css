@@ -51,10 +51,15 @@ figcaption {
 /* Psuedo Class Selectors */
 
 #details a:link {
-  color: 000
-  text-decoration: none;  
+  color: 000;
+  text-decoration: none;
 }
 #details a:link {
-  color: blue
-  text-decoration: none;  
+  color: blue;
+  text-decoration: none;
+}
+
+#details a:hover {
+  color: 000;
+  text-decoration: underline;  
 }
