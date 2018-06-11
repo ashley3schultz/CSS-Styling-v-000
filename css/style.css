@@ -32,3 +32,18 @@ figcaption {
   color: #fff;
   text-shadow: 0 2px 3px #000;
 }
+
+/* ID Selectors */
+
+#logo{
+  background: aqua;
+}
+
+/* Decendent Selectors */
+
+#logo h1 {
+  font-family: 'clicker script', cursive;
+}
+#logo h2 {
+  font-family: 'Elsie Swash Caps', cursive;
+}
