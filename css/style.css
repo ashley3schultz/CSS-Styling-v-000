@@ -54,7 +54,7 @@ figcaption {
   color: 000;
   text-decoration: none;
 }
-#details a:link {
+#details a:visited {
   color: blue;
   text-decoration: none;
 }
