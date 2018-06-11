@@ -9,7 +9,7 @@ property: value;
 }
 */
 
-/* Tye seleter */
+/* Type seleter */
 
 p {
   font-size: 1em;
@@ -23,4 +23,12 @@ figcaption {
   font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
   color: #777;
   text-align: right;
+}
+
+/* Class selectors */
+
+.milk-text {
+  font: bold 2.6em 'Elsie Swash Caps', cursive;
+  color: #fff;
+  text-shadow: 0 2px 3px #000;
 }
