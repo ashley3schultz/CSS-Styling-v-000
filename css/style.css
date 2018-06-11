@@ -50,20 +50,14 @@ figcaption {
 
 /* Psuedo Class Selectors */
 
-#details a:link {
+#details a:link, #details a:visited {
   color: 000;
   text-decoration: none;
 }
-#details a:visited {
-  color: purple;
-  text-decoration: none;
-}
-
 #details a:hover {
   color: 000;
   text-decoration: underline;
 }
-
 #details a:active {
   color: red;
   text-decoration: underline;
